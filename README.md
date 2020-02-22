@@ -2,6 +2,8 @@
 
 A simple react app that displays the current showerthoughts on the [/r/showerthoughts](https://www.reddit.com/r/showerthoughts) subreddit on reddit.com!
 
+![App Screenshot](https://i.ibb.co/0mX069z/Bildschirmfoto-2020-02-22-um-18-36-45.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
